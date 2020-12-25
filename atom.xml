@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://afurete233.github.io/Afurete-Gallery</id>
     <title>Afurete-Gallery</title>
-    <updated>2020-12-25T03:44:52.005Z</updated>
+    <updated>2020-12-25T06:46:44.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://afurete233.github.io/Afurete-Gallery"/>
     <link rel="self" href="https://afurete233.github.io/Afurete-Gallery/atom.xml"/>
@@ -10,6 +10,27 @@
     <logo>https://afurete233.github.io/Afurete-Gallery/images/avatar.png</logo>
     <icon>https://afurete233.github.io/Afurete-Gallery/favicon.ico</icon>
     <rights>All rights reserved 2020, Afurete-Gallery</rights>
+    <entry>
+        <title type="html"><![CDATA[  Muse Dash CG - 3]]></title>
+        <id>https://afurete233.github.io/Afurete-Gallery/post/muse-dash-cg-3/</id>
+        <link href="https://afurete233.github.io/Afurete-Gallery/post/muse-dash-cg-3/">
+        </link>
+        <updated>2020-12-25T06:45:53.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Muse Dash CG - 2 Fubuki]]></title>
+        <id>https://afurete233.github.io/Afurete-Gallery/post/muse-dash-cg-2-fubuki/</id>
+        <link href="https://afurete233.github.io/Afurete-Gallery/post/muse-dash-cg-2-fubuki/">
+        </link>
+        <updated>2020-12-25T06:45:21.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Muse Dash CG - 1]]></title>
+        <id>https://afurete233.github.io/Afurete-Gallery/post/muse-dash-cg-1/</id>
+        <link href="https://afurete233.github.io/Afurete-Gallery/post/muse-dash-cg-1/">
+        </link>
+        <updated>2020-12-25T06:43:34.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lily-枫女士]]></title>
         <id>https://afurete233.github.io/Afurete-Gallery/post/lily-feng-nu-shi/</id>
