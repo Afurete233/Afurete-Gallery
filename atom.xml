@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://afurete233.github.io/Afurete-Gallery</id>
     <title>Afurete-Gallery</title>
-    <updated>2020-12-25T03:43:56.018Z</updated>
+    <updated>2020-12-25T03:44:52.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://afurete233.github.io/Afurete-Gallery"/>
     <link rel="self" href="https://afurete233.github.io/Afurete-Gallery/atom.xml"/>
@@ -11,7 +11,14 @@
     <icon>https://afurete233.github.io/Afurete-Gallery/favicon.ico</icon>
     <rights>All rights reserved 2020, Afurete-Gallery</rights>
     <entry>
-        <title type="html"><![CDATA[Lily结梨-2]]></title>
+        <title type="html"><![CDATA[Lily-枫女士]]></title>
+        <id>https://afurete233.github.io/Afurete-Gallery/post/lily-feng-nu-shi/</id>
+        <link href="https://afurete233.github.io/Afurete-Gallery/post/lily-feng-nu-shi/">
+        </link>
+        <updated>2020-12-25T03:44:08.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lily-结梨-2]]></title>
         <id>https://afurete233.github.io/Afurete-Gallery/post/lily-jie-li-2/</id>
         <link href="https://afurete233.github.io/Afurete-Gallery/post/lily-jie-li-2/">
         </link>
