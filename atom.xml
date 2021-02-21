@@ -2,14 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://afurete233.github.io/Afurete-Gallery</id>
     <title>Afurete-Gallery</title>
-    <updated>2020-12-25T06:46:44.445Z</updated>
+    <updated>2021-02-21T02:26:02.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://afurete233.github.io/Afurete-Gallery"/>
     <link rel="self" href="https://afurete233.github.io/Afurete-Gallery/atom.xml"/>
     <subtitle>我的涩图库</subtitle>
     <logo>https://afurete233.github.io/Afurete-Gallery/images/avatar.png</logo>
     <icon>https://afurete233.github.io/Afurete-Gallery/favicon.ico</icon>
-    <rights>All rights reserved 2020, Afurete-Gallery</rights>
+    <rights>All rights reserved 2021, Afurete-Gallery</rights>
+    <entry>
+        <title type="html"><![CDATA[随机2]]></title>
+        <id>https://afurete233.github.io/Afurete-Gallery/post/sui-ji-2/</id>
+        <link href="https://afurete233.github.io/Afurete-Gallery/post/sui-ji-2/">
+        </link>
+        <updated>2021-02-21T02:20:54.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[随机]]></title>
+        <id>https://afurete233.github.io/Afurete-Gallery/post/sui-ji/</id>
+        <link href="https://afurete233.github.io/Afurete-Gallery/post/sui-ji/">
+        </link>
+        <updated>2021-02-21T02:19:44.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[  Muse Dash CG - 3]]></title>
         <id>https://afurete233.github.io/Afurete-Gallery/post/muse-dash-cg-3/</id>
